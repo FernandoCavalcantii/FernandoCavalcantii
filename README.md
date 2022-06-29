@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - :tv:	I also love watching animes.
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoCavalcantii&show_icons=true&layout=compac&theme=algolia&count_private=true&line_height=20"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoCavalcantii&show_icons=true&layout=compac&theme=algolia&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCavalcantii&layout=compact&theme=algolia"/>
 </div>
 
