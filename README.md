@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-### My name is Fernando and I'm a Fullstack software developer!
+### My name is Fernando and I'm a full stack software developer!
 
 <!--
 **FernandoCavalcantii/FernandoCavalcantii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile!
