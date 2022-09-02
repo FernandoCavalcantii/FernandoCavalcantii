@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### About me:
 
 - :video_game: I love playing games.
-- :tv:	I also love watching animes.
+- :tv:	I also love watching animes and series.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoCavalcantii&show_icons=true&layout=compac&theme=algolia&count_private=true"/>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - 🌱 Estou aprendendo MongoI’m currently learning MongoDB.
 -->
 - :video_game: Eu amo jogar video-games.
-- :tv:	Eu também amo assistir animes.
+- :tv:	Eu também amo assistir animes e séries.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoCavalcantii&show_icons=true&layout=compac&theme=algolia&count_private=true"/>
