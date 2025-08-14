@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MongoDB.
 -->
 
-### About me:
-
-- :video_game: I love playing video games.
-- :tv:	I also love watching animes and series.
-
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoCavalcantii&show_icons=true&layout=compac&theme=algolia&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoCavalcantii&layout=compact&theme=algolia"/>
@@ -40,7 +35,7 @@ Here are some ideas to get you started:
 ### Social:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/fernando-augusto-cavalcanti/) 
-<a href = "mailto:fafhcavalcanti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:fernandocavalcanti.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/Fernando-Cavalcanti)
 
 </details>
@@ -48,14 +43,6 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 ### Meu nome é Fernando e eu sou um desenvolvedor de software full stack!
-
-### Sobre mim:
-
-<!--
-- 🌱 Estou aprendendo MongoI’m currently learning MongoDB.
--->
-- :video_game: Eu amo jogar video-games.
-- :tv:	Eu também amo assistir animes e séries.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoCavalcantii&show_icons=true&layout=compac&theme=algolia&count_private=true"/>
@@ -71,6 +58,6 @@ Here are some ideas to get you started:
 ### Social:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/fernando-augusto-cavalcanti/)
-<a href = "mailto:fafhcavalcanti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:fernandocavalcanti.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/Fernando-Cavalcanti)
 
